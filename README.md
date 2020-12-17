@@ -12,3 +12,7 @@ User table have basic fields such as Name, Email and Current Balance.
 Transaction table: Receiver's Name, Sender's Name, Transaction ID, Transaction Amount.
 
 Hosted at : https://all-citizens-bank.herokuapp.com/index.html
+
+References:
+Images and illustrations: Unsplash
+Design: Bedimcode
